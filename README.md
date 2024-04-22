@@ -3,7 +3,7 @@
 <h1 align="center"> Hi, I'm Daniela Gil✨👋</h1>
 </div>
 
-<img src="https://i.postimg.cc/FF2n0h4R/Banner.jpg">
+<img align="center" src="https://i.postimg.cc/FF2n0h4R/Banner.jpg">
 
 <!--
 **danugil/danugil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
