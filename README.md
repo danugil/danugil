@@ -16,14 +16,14 @@
 ![HTML](https://img.shields.io/badge/HTML%20-%20%23E44D26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF) 
 ![CSS](https://img.shields.io/badge/CSS%20-%20%23006BC0?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%20%23F2CE1B?style=for-the-badge&logo=JavaScript&logoColor=000000&color=%23F2CE1B)
-![React](https://img.shields.io/badge/React%20-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)/
+![React](https://img.shields.io/badge/React%20-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)\
 ![React Native](https://img.shields.io/badge/React%20Native-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20%236C0CF2?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%20%238DD984?style=for-the-badge&logo=Node.js&logoColor=000000&color=%238DD984)
 ![Firebase](https://img.shields.io/badge/Firebase%20-%20%23079DD9?style=for-the-badge&logo=Firebase)
 
 ## Find Me🌐: 
-<a href="https://www.linkedin.com/in/daniela-gil-ux-ui/" target="_blank">
+<a href="https://www.linkedin.com/in/daniela-gil-ux-ui/" target="blank">
 <img src="https://img.shields.io/badge/Daniela%20Gil%20-%20%23007EBB?style=for-the-badge&logo=LinkedIn&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniela-gil-ux-ui%2F">
 </a>
 
