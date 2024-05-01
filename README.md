@@ -20,7 +20,8 @@
 ![React Native](https://img.shields.io/badge/React%20Native-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20%236C0CF2?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%20%238DD984?style=for-the-badge&logo=Node.js&logoColor=000000&color=%238DD984)
-![Firebase](https://img.shields.io/badge/Firebase%20-%20%23079DD9?style=for-the-badge&logo=Firebase)
+![Firebase](https://img.shields.io/badge/Firebase%20-%20%23079DD9?style=for-the-badge&logo=Firebase)\
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Find Me🌐: 
 <a href="https://www.linkedin.com/in/daniela-gil-ux-ui/" target="_blank">
