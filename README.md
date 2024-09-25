@@ -13,6 +13,8 @@
 - I'm currently diving deeper into backend development to become the ultimate full-stack expert! 💪🔙💻
 
 ## Stack👩‍💻: 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)\
 ![HTML](https://img.shields.io/badge/HTML%20-%20%23E44D26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF) 
 ![CSS](https://img.shields.io/badge/CSS%20-%20%23006BC0?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%20%23F2CE1B?style=for-the-badge&logo=JavaScript&logoColor=000000&color=%23F2CE1B)
