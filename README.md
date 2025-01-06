@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">  
-<img align="center" src="https://i.postimg.cc/FF2n0h4R/Banner.jpg">
+<img align="center" src="https://i.ibb.co/JnbSBHh/Profile-Linked-In-Banner.png">
 </div>
 
 ## About Me: 
