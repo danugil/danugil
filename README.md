@@ -28,7 +28,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Find Me🌐: 
-<a href="https://www.linkedin.com/in/daniela-gil-ux-ui/" target="_blank">
+<a href="https://www.linkedin.com/in/daniela-gil-fernandez/" target="_blank">
 <img src="https://img.shields.io/badge/Daniela%20Gil%20-%20%23007EBB?style=for-the-badge&logo=LinkedIn">
 </a>
 <br>
