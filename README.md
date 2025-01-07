@@ -10,7 +10,7 @@
 ## About Me: 
 
 - I'm currently dedicated to expanding my knowledge and advancing professionally. 📚💼
-- I'm currently diving deeper into backend development to become the ultimate full-stack expert! 💪🔙💻
+- I'm currently diving deeper into backend development to become the ultimate Full Stack expert! 💪🔙💻
 
 ## Stack👩‍💻: 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
