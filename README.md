@@ -14,18 +14,22 @@
 
 ## Stack👩‍💻: 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)\
-![HTML](https://img.shields.io/badge/HTML%20-%20%23E44D26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF) 
-![CSS](https://img.shields.io/badge/CSS%20-%20%23006BC0?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%20%23F2CE1B?style=for-the-badge&logo=JavaScript&logoColor=000000&color=%23F2CE1B)
-![React](https://img.shields.io/badge/React%20-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)\
-![React Native](https://img.shields.io/badge/React%20Native-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20%236C0CF2?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js%20-%20%238DD984?style=for-the-badge&logo=Node.js&logoColor=000000&color=%238DD984)
-![Firebase](https://img.shields.io/badge/Firebase%20-%20%23079DD9?style=for-the-badge&logo=Firebase)\
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CSS](https://img.shields.io/badge/CSS%20-%20%23006BC0?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
+![HTML](https://img.shields.io/badge/HTML%20-%20%23E44D26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)\
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![React](https://img.shields.io/badge/React%20-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)
+![Node.js](https://img.shields.io/badge/Node.js%20-%20%238DD984?style=for-the-badge&logo=Node.js&logoColor=000000&color=%238DD984)
+![React Native](https://img.shields.io/badge/React%20Native-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20%236C0CF2?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)\
+![Firebase](https://img.shields.io/badge/Firebase%20-%20%23079DD9?style=for-the-badge&logo=Firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)\
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Find Me🌐: 
 <a href="https://www.linkedin.com/in/daniela-gil-fernandez/" target="_blank">
