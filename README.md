@@ -15,15 +15,18 @@
 ## Stack👩‍💻: 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%20%23F2CE1B?style=for-the-badge&logo=JavaScript&logoColor=000000&color=%23F2CE1B)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CSS](https://img.shields.io/badge/CSS%20-%20%23006BC0?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
 ![HTML](https://img.shields.io/badge/HTML%20-%20%23E44D26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)\
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%20%238DD984?style=for-the-badge&logo=Node.js&logoColor=000000&color=%238DD984)
-![React Native](https://img.shields.io/badge/React%20Native-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)
+![React Native](https://img.shields.io/badge/React%20Native-%20%235ED7F2?style=for-the-badge&logo=React&logoColor=000000&color=%235ED7F2)\
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20%236C0CF2?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)\
 ![Firebase](https://img.shields.io/badge/Firebase%20-%20%23079DD9?style=for-the-badge&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
